@@ -1,0 +1,7 @@
+# modelsim
+transcript
+modelsim.ini
+/work
+
+# log
+*.log
