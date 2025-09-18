@@ -53,7 +53,7 @@ This project demonstrates a custom **UVM-like verification environment** for ver
 ![](assets/result.png)
 
 
-> <div style="font-size: 50%">
+> <div style="font-size: 6px">
 
 > - For FIFO depth = 2 with almost full/empty threshold = 1 :  
 >   - When the FIFO is **full**, only **read** operations are allowed, so both `almost_full` and `almost_empty` signals are asserted.  
